@@ -31,3 +31,7 @@ To execute: `$ ./Canny`
 You should get 3 output files, named: "garb34mag.pgm", "garb34peaks.pgm", and "garb34final.pgm". These represent the Magnitude, Peaks, and Final results respectively for Canny. These can all be found in the Sample input and Sample output folders inside Canny/.
 
 An assignment description can be read, titled "assignCanny1.docx"
+
+## YouTube
+
+YouTube: https://www.youtube.com/watch?v=i3gTDSSlA_4
